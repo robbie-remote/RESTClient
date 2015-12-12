@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For RESTClient
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+RESTClient	KEYWORD1	RESTClient
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+connect	KEYWORD2
+send	KEYWORD2
+printMAC	KEYWORD2
+printHTTP	KEYWORD2
+printHeaders	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
