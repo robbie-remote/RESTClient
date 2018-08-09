@@ -6,7 +6,7 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-RESTClient	KEYWORD1	RESTClient
+RESTClient	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
